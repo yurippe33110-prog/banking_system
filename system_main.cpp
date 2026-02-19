@@ -1,5 +1,6 @@
 #include <iostream>
-      
+#include banking_account.h
+
 int main()
 {
   BankAccount a( "Lisa" );
