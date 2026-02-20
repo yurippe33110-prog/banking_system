@@ -2,6 +2,9 @@
 
 A C++ implementation demonstrating Objected_Oriented Programming (OOP) principles through a bank account management system.
 
+Designed a C++ banking simulation by applying OOP principles to implement secure balance updates and transaction tracking, ensuring robust error handling and data consistency. 
+Utilized pass-by-reference and static members to optimize memory efficiency and global state management. Prioritized data encapsulation by using private access modifiers, preventing unauthorized direct access to sensitive financial records. Resolved critical logic errors in the fund transfer module by implementing strict validation protocols, preventing unintended overdrafts and ensuring data consistency between accounts.
+
 ## Overview
 This project showcases a 'BankAccount' class that handles basic financial operations.
 **Encapsulation** Protecting the 'balance' variable using private access modifies.
